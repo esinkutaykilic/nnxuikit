@@ -1,0 +1,14 @@
+{
+  "name": "@nnx/uikit",
+  "version": "1.0.0",
+  "description": "nonex infrastructure",
+  "type": "module",
+  "main": "NNXUIKit.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:esinkutaykilic/nnxuikit.git"
+  },
+  "author": "Esin Kutay Kilic",
+  "license": "LGPL-3.0-or-later",
+  "homepage": "https://github.com/esinkutaykilic/nnxuikit"
+}
